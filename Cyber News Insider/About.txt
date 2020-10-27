@@ -1,0 +1,9 @@
+                                                                                              Cyber News Insider
+
+ This application has been developed for my diploma thesis and it's about cybersecurity. 
+ Specifically it shows the user the latest cyber news. Also it has lots of categories to choose
+ like malware and vulnerabilities and some extra functions like Refresh, Auto update, Save,
+ Send by email, Search. The project has been developed with Python and the GUI with Tkinter.
+
+Github: https://github.com/p-vrachnis/CyberNewsInsider
+

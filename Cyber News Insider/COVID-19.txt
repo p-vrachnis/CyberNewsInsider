@@ -1,0 +1,92 @@
+COVID-19
+Seven in 10 security vulnerabilities affecting industrial control systems (ICS) can be exploited remotely, giving state-
+sponsored malicious actors a leg up. The risk has been exacerbated by the increased reliance on remote access to ICS
+networks amid the COVID-19 pandemic. State-sponsored malicious threat actors have been using remotely-exploitable flaws
+to disrupt critical systems in rival nations.
+(August 21, 2020)
+
+The COVID-19 pandemic shows little sign of slowing down, but for many businesses, employees are still working remotely
+and from home offices. While some companies are gearing towards reopening their standard office spaces in the coming
+months, they may also be facing repercussions of the rapid shift to remote working models in the cybersecurity space. 
+(August 20, 2020)
+
+Hackers had locked down several servers used by the epidemiology and biostatistics department at the University of
+California at San Francisco and wanted a $3 million ransom to give them the keys. The UCSF negotiator said the attack
+couldn’t have come at a worse time. The department was racing to try to help develop some kind of treatment or vaccine
+for COVID-19.
+(August 19, 2020)
+
+Verizon recently released an update to its 2020 Verizon Data Breach Investigations Report examining the impact of the
+COVID-19 pandemic on cybersecurity. The report found out increased security vulnerabilities and the emergence of new
+cyberattack tactics associated with the new reliance on remote workers. Now, many industries are moving to have their
+employees working almost exclusively online.
+(August 18, 2020)
+
+During the COVID-19 pandemic, risks to the healthcare industry’s fragile cybersecurity infrastructure are at an all-time
+high. From increased cyberattacks to exacerbated vulnerabilities to costly human errors, if healthcare cybersecurity
+wasn’t circling the drain before, COVID-19 sent it into a tailspin.
+(August 18, 2020)
+
+Interpol has issued a warning about the rising levels of cybercriminal activity related to the COVID- 19 pandemic.
+Phishing attacks purporting to share information about any eagerly awaited COVID-19 vaccine will be launched long before
+it might ever become available. From January through April, roughly 907,000 spam messages, 737 incidents related to
+malware, and 48,000 malicious URLs have been tracked, which have some connection to COVID-19.
+(August 17, 2020)
+
+According to the statement released by the Office of the Chief Information Officer of the Government of Canada, Canadian
+government sites, that are used to provide access to crucial services for immigration, pension, and benefits, have been
+breached in a coordinated attack to steal COVID-19 relief payments. Their GCKey system had also experienced a
+cyberattack. Using the "credential stuffing" technique, attackers managed to get into some 9,041 GCKey accounts of the
+total 12 million users.
+(August 16, 2020)
+
+Amid COVID-19, hackers have presented opportunities on multiple fronts. They play on people’s concerns about the virus
+by presenting phishing schemes or malware disguised in fake Centers for Disease Control and Prevention (CDC) alerts that
+talk about the latest vaccine or treatment developments. Hackers quickly used the pandemic and related anxiety to lure
+people into phishing schemes and malware attacks.
+(August 14, 2020)
+
+Researchers at Check Point Software Technologies have seen 192,000 coronavirus-related cyber-attacks per week over the
+past three weeks, a 30 percent increase compared to previous weeks. In the past three weeks, almost 20,000 new
+coronavirus-related domains were registered, about 17 percent of which are malicious or suspicious. So far, since the
+beginning of the outbreak, a total of 90,284 new corona related domains have been registered globally.
+(August 13, 2020)
+
+NHS staff were hit with a wave of malicious email attacks at the height of the COVID-19 pandemic, with doctors, nurses,
+and other key workers reporting over 40,000 spam and phishing attacks between March and the first half of July. It is
+revealed that NHS staff reported 21,188 malicious emails in March alone. In April, 8,085 emails were reported by staff,
+with 5,883 emails reported in May, 6,468 in June and 1,484 in the first half of July.
+(August 12, 2020)
+
+The Department of Homeland Security’s cyber agency warned that a ‘malicious cyber actor’ is targeting a Small Business
+Administration (SBA) webpage used to funnel loans to businesses during the COVID-19 pandemic. An unknown malicious cyber
+actor is found to be spoofing the Small Business Administration (SBA) COVID-19 loan relief webpage via phishing emails.
+These emails include a malicious link to the spoofed SBA website that the cyber actor is using for malicious redirects
+and credential stealing.
+(August 11, 2020)
+
+Threat actors and hackers have been closely following the pandemic’s development globally. In the race for a vaccine, a
+double number of vaccine-related new coronavirus domains have been observed between June and July. In fact, 1 out of
+every 25 malicious coronavirus-related websites’ landing pages is vaccine-related. Cybercriminals are planning to take
+advantage of the latest developments.
+(August 11, 2020)
+
+Work from home (WFH) brings many benefits to organizations, but it creates risks by virtually inviting cyberattacks
+along multiple vectors. To stay protected, organizations should equip users to work securely from home, enable MFA as
+broadly as possible, and close the privileged attack vectors. Businesses around the world need to act towards ensuring
+security, by deploying security mechanisms such as MFA and through more comprehensive security program governance.
+(August 11, 2020)
+
+There are four lessons that can be distilled to help protect hospitals and healthcare divisions from COVID-19-themed
+cyber attacks. One of the most crucial lessons learned is inventory automation, i.e. knowing where each medical device
+was and its availability through the first surge. Second is prioritizing security to ensure that the automated inventory
+process is working smoothly. The third is implementing remediation and last is measuring the utilization of network
+resources.
+(August 10, 2020)
+
+As Netflix subscriber numbers rose by 10 million during the coronavirus lockdown months, so did the security threats. An
+alarming rise has been observed in the number of web addresses that have been explicitly registered so that
+cybercriminals can target Netflix users. A massive rise in phishing URLs targeting Netflix of 646% showed attackers are
+looking to capitalize on Netflix's growth.
+(August 9, 2020)
+
